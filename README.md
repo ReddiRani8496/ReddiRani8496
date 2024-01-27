@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures, ReactJS**
 
-- 💬 Ask me about **Java, MySQL, HTML, CSS**
+- 💬 Ask me about **Java, MySQL, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **reddiranibattuluri@gmail.com**
 
