@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddirani8496&label=Profile%20views&color=0e75b6&style=flat" alt="reddirani8496" /> </p>
 
-<img align="center" alt="GIF" src="https://github.com/ReddiRani8496/ReddiRani8496/blob/main/code.gif?raw=true" width="500" height="320" />
+<p align="center"><img alt="GIF" src="https://github.com/ReddiRani8496/ReddiRani8496/blob/main/code.gif?raw=true" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddirani8496" alt="reddirani8496" /></a> </p>
 
