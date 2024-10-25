@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Battuluri Reddirani</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+
 [![An image of @reddirani8496's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reddirani8496)](https://holopin.io/@reddirani8496)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddirani8496&label=Profile%20views&color=0e75b6&style=flat" alt="reddirani8496" /> </p>
